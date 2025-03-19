@@ -54,7 +54,6 @@ Time series chart for daily income and 14-day rolling average
 Monthly income trend comparison with goals
 
 
-
 Conclusion: Grocery Sales Performance Analysis
 The Grocery Sales Dashboard provides key insights into sales performance, customer behavior, and revenue trends over the first four months of 2018.
 
