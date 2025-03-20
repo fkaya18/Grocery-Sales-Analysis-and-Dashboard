@@ -54,6 +54,12 @@ Power BI Dashboard Insights
 
 Once the SQL dataset was prepared, GrocerySalesView was imported into Power BI to create an interactive dashboard.
 
+You can checkout dashboard and interact with it from: https://app.powerbi.com/links/-lrl9-dEuE?ctid=354c59ba-ed68-4a10-add1-ff85509e5338&pbi_source=linkShare
+
+![Grocery Sales Analysis and Dashboard](dashboard.png)
+
+
+
 Key Metrics
 
 Total Income: $638M
